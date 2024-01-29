@@ -1,0 +1,1 @@
+# laravel-app-external-db
